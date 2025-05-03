@@ -211,20 +211,6 @@ terraform init
 terraform plan
 ```
 
-## Contributing
-
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This module is released under the MIT License. See [LICENSE](LICENSE) for details.
-
-## Support
-
-For support and questions:
-- Create an issue in this repository
-- Contact: support@example.com
-
 ## Acknowledgments
 
 - Thanks to the Terraform community
